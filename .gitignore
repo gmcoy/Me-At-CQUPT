@@ -1,32 +1,82 @@
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Web Design</title>
 
-# Precompiled Headers
-*.gch
-*.pch
+<style type="text/css">
+a:link {
+	color: #2E8094;
+}
+a:visited {
+	color: #3F3C3C;
+}
+a:hover {
+	color: #DEB117;
+}
+a:active {
+	color: #2E2A2A ;
+}
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+body {
+	background-image: url(images/design1.jpg);
+	color: #000000;
+	background-color: #000000;
+}
+body,td,th {
+	color: #FBEDED;
+}
+</style>
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+<body>
+<font c color="#DC1418"><header style="font-size:200%"><strong>AIT PROJECT-2</strong></header></font>
 
-# Debug files
-*.dSYM/
+<table width="1250">
+  <tbody>
+    <tr>
+    <th scope="col">&nbsp<div align="left">
+  <font color="#9A750A"><header style="font-size:120%">Web Design</header>
+  </font>
+</div></th>
+      <th scope="col">&nbsp<div align="right">
+  <font c color="#9A750A"><p><header style="font-size:120%"><strong>Application of Informatisation Tools (AIT)</strong></header> 
+  </p>
+  </font>
+</div></th>
+    </tr>
+  </tbody>
+</table>
+
+<div class="container">
+<div class="content">
+   
+   <hr/>
+  
+ <font size="5"> 
+  <a href="INDEX.html">HOME|</a><a href="NEWS.html">NEWS|</a><a href="ALBUMS.html">ALBUMS|</a><a href="IMS.html">IMS|</a></font>
+  <hr/>
+</div>
+</div>
+
+
+<table width="1050" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+      <td bgcolor="#000000"></td>
+      <div align="left"><td>&nbsp<font color="#907000">&nbsp Welcome to CQUPT
+    </font></td></div>
+    </tr>
+    <tr>
+      <td>&nbsp</td>
+<td><font color="#907000"><div align="left">&nbsp 
+      5G is expected to be deployed nearly 2020; furthermore many telecom association are rushing on providing a standardization to be used, in contrast there’s many drawbacks regarding the technologies above mentioned. For example in MIMO systems where both at RX & TX can be use hundred antennas , the power consumption is a major factor, In FEMTOCELL and denser cells handoff would increase, in addition at mm Waves range distortions and attenuation  are tremendous.
+     </div> </font>
+   <center><input type="button" value="Learn More Now" onClick="window.location.href='http://www.cqupt.edu.cn/cqupt/index.shtml'"/>
+  </td>
+ </tbody>
+</table>
+
+
+</head>
+</html>
